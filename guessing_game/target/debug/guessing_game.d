@@ -1,1 +1,1 @@
-/Users/jacopobarnabe/rust_projects/guessing_game/target/debug/guessing_game: /Users/jacopobarnabe/rust_projects/guessing_game/src/main.rs
+/Users/jacopobarnabe/Library/Mobile\ Documents/com~apple~CloudDocs/rust_projects/Rust_Book_Projects/guessing_game/target/debug/guessing_game: /Users/jacopobarnabe/Library/Mobile\ Documents/com~apple~CloudDocs/rust_projects/Rust_Book_Projects/guessing_game/src/main.rs
