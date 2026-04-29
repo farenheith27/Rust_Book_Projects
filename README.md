@@ -16,7 +16,7 @@ Tried first cargo command.
 Exercise about if else, from Control Flow chapter 3.5
 
 ### /conditional_loops
-Exercise about while loops, from Control Flow chapter 3.5
+Exercise about while and for loops, from Control Flow chapter 3.5
 
 ### /guessing_game
 First ever project from Rust Book, chapter 2. <br>
