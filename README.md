@@ -30,3 +30,6 @@ Little exercise from chapter 3.1 about variables mutability
 
 # Exercises
 ## Chapter 3
+### /f_to_c
+From Issue #1
+Fahrenheit to Celsius converter
