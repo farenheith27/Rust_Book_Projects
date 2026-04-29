@@ -12,6 +12,9 @@ Tried first cargo command.
 
 ---
 
+### /branches
+Exercise about Control Flow from chapter 3.5
+
 ### /guessing_game
 First ever project from Rust Book, chapter 2. <br>
 It features a little game where user inputs a number between 1-100 trying to match the random generated one. Program will run a loop until guessed right, telling the user if the guessed number is too high or too low.
