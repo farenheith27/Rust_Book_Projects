@@ -28,3 +28,5 @@ Exercise about loops, from Control Flow chapter 3.5
 ### /variables
 Little exercise from chapter 3.1 about variables mutability
 
+# Exercises
+## Chapter 3
