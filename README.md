@@ -3,7 +3,7 @@ _Collection of projects made while studying the Rust programming language_
 <br>
 _[Interactive Rust Book](https://rust-book.cs.brown.edu/)_
 
-## Projects
+# Projects
 ### /hello_world
 First ever.
 
@@ -28,3 +28,5 @@ Exercise about loops, from Control Flow chapter 3.5
 ### /variables
 Little exercise from chapter 3.1 about variables mutability
 
+# Exercises
+## Chapter 3
