@@ -15,6 +15,9 @@ Tried first cargo command.
 ### /branches
 Exercise about if else, from Control Flow chapter 3.5
 
+### /conditional_loops
+Exercise about while loops, from Control Flow chapter 3.5
+
 ### /guessing_game
 First ever project from Rust Book, chapter 2. <br>
 It features a little game where user inputs a number between 1-100 trying to match the random generated one. Program will run a loop until guessed right, telling the user if the guessed number is too high or too low.

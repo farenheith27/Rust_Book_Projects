@@ -1,3 +1,5 @@
+// This can be optimized as seen in /conditional_loops project
+
 fn main() {
     let mut count = 0;
     'counting_up: loop {
